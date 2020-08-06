@@ -3,16 +3,6 @@ body{
     font: 16px Arial, Helvetica, sans-serif;
 }
 
-#principal{
-    width: 900px;
-}
-
-#nav-bar{
-    background: #c5c5b2;
-    color: steelblue;
-    padding: 18px;
-}
-
 a{
     color: #4b566a;
     text-decoration: none;
@@ -22,6 +12,21 @@ a{
 
 p{
     text-align: justify;
+}
+
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
+
+#principal{
+    width: 900px;
+}
+
+#nav-bar{
+    background: #c5c5b2;
+    color: steelblue;
+    padding: 18px;
 }
 
 #footer{
@@ -35,4 +40,8 @@ p{
 
 #about{
     color: rgb(104, 99, 75);
+}
+
+.img-campanha{
+    border: 10px solid #c3c3ae;
 }
